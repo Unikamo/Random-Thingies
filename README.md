@@ -4,4 +4,5 @@ Random things I'll need on another computer, prob
 
 # Definitions
 `math.c` : Get day of the week from a date\
-`math.java` : `math.c`, but in java
+`math.java` : `math.c`, but in Java\
+`math.py` : `math.c`, but in Python
