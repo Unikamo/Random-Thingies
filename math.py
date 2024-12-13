@@ -6,7 +6,7 @@ def main():
 		case "fr" | "français" | "francais" | "french":
 			french();
 		case _:
-			print("[ERROR] Enter something right / Entres une valeur correcte");
+			print("[ERROR] Enter something valid / Entres une valeur correcte");
 	
 
 def english():
