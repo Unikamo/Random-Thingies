@@ -1,4 +1,4 @@
-[README En Français](https://github.com/Unikamo/Random-Thingies/edit/main/frREADME.md)
+[README En Français](https://github.com/Unikamo/Random-Thingies/blob/main/frREADME.md)
 
 # Random-Thingies
 Random things I'll need on another computer, prob
