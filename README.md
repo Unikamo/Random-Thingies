@@ -12,7 +12,7 @@ Random things I'll need on another computer, prob
 `math.lua` : `math.c`, but in Lua
 
 # Compilation/Use
-*file : informations : usage*\
+*file : informations : usage*
 
 + `math.c` : Only works with GCC with a Linux-Based Distribution (as far as I tested) : `gcc math.c -o math`\
 + `math.java` : Should work everywhere, as long as Java 21+ (preferably with JDK) is installed : `java math.java` or `javac math.java` and `java math`\
