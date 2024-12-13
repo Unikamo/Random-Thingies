@@ -42,5 +42,5 @@ int main(int argc, char **argv)
 	scanf("%10s", &answ);
 	if (strncmp(answ, "fr", 16) == 0 || strncmp(answ, "français", 16) == 0 || strncmp(answ, "francais", 16) == 0 || strncmp(answ, "french", 16) == 0) { french(); }
 	else if (strncmp(answ, "en", 16) == 0 || strncmp(answ, "english", 16) == 0 || strncmp(answ, "anglais", 16) == 0){ english(); }
-	else { printf("[ERROR] Enter something right / Entres une valeur correcte\n"); }
+	else { printf("[ERROR] Enter something valid / Entres une valeur correcte\n"); }
 }
