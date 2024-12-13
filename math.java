@@ -22,7 +22,7 @@ class math{
 				english();
 				break;
 			default:
-				System.out.println("[ERROR] Enter something right / Entres une valeur correcte");
+				System.out.println("[ERROR] Enter something valid / Entres une valeur correcte");
 				break;
 		}
 	}
