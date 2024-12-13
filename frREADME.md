@@ -3,6 +3,7 @@
 # Random-Thingies
 Des choses que j'aurais besoins sur un autre ordi, p'tetre
 (Preparez-vous à trouver le code C le moins sécurisé possible :fire:)
+((les années bisextiles marchent pas, d'ailleurs))
 
 # Definitions
 `math.c` : Trouver le jour de la semaine d'une date\
